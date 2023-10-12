@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class OperadoresAritimeticos {
+public class OperadoresAritmeticos {
     public static void main(String[] args) {
         int minhaIdade = 40;
         int suaIdade = 20;
