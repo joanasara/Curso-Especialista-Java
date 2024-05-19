@@ -30,7 +30,5 @@ public class Principal {
         System.out.printf("Fabricante: %s%n", seuCarro.fabricante);
         System.out.printf( "Modelo: %s%n",  seuCarro.modelo);
         System.out.printf( "cor: %s%n",  seuCarro.cor);
-
-
     }
 }
