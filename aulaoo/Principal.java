@@ -32,8 +32,5 @@ public class Principal {
         System.out.printf( "cor: %s%n",  seuCarro.cor);
 
 
-
-
-
     }
 }
