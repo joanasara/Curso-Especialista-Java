@@ -6,6 +6,5 @@ public class Carro {
      String modelo;
      String cor;
      int anoFabricacao;
-
      Pessoa propietario; //O carro tem um propietario.
 }
