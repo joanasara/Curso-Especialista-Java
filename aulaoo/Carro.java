@@ -2,9 +2,9 @@ package aulaoo;
 
 public class Carro {
 
-     String fabricante;
+     String fabricante = "Ford";
      String modelo;
      String cor;
-     int anoFabricacao;
-     Pessoa propietario; //O carro tem um propietario.
+     int anoFabricacao = 2022;
+     Pessoa propietario = new Pessoa(); //O carro tem um propietario.
 }
